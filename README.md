@@ -3,6 +3,7 @@
 A simple project for github comparison.
 
 ## Introduction
+This example shows the different parts of the Git repo and various commands.
 
 ## Purpose
 
