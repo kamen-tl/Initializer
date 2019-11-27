@@ -1,6 +1,6 @@
 # Initializer docs
 
-A simple project for github comparison.
+A simple project for github comparison. Lets rebase this thing.
 
 ## Introduction
 This example shows the different parts of the Git repo and various commands.
