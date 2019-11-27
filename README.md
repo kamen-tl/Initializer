@@ -15,3 +15,6 @@ Teste 123
 it's how you deploy
 
 ## How to contribute
+
+### Copyright
+Yo mama, 2019
