@@ -15,6 +15,7 @@ Teste 123
 it's how you deploy
 
 ## How to contribute
+Fork this repo and PR at will
 
 ### Copyright
 Yo mama, 2019
